@@ -7,11 +7,11 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 border-b border-gray-800 pb-8">
           <div className="col-span-1 md:col-span-2">
             <Link to="/" className="text-2xl font-bold text-white flex items-center gap-1 mb-4">
-              <span className="bg-primary text-white px-2 py-0.5 rounded italic">3분</span>
-              <span>머니</span>
+              <span className="bg-primary text-white px-2 py-0.5 rounded italic">링크</span>
+              <span>페이</span>
             </Link>
             <p className="text-sm leading-relaxed max-w-md">
-              3분머니는 정식 사업자 등록 업체로서 고객님의 소중한 자산을 안전하고 신속하게 현금화해 드립니다. 
+              링크페이는 정식 사업자 등록 업체로서 고객님의 소중한 자산을 안전하고 신속하게 현금화해 드립니다. 
               24시간 연중무휴 상담원이 대기 중이며, 개인정보 보호를 최우선으로 합니다.
             </p>
           </div>
@@ -29,16 +29,16 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li className="text-primary font-bold text-lg">1588-0000</li>
               <li>상담시간: 365일 24시간</li>
-              <li>카카오톡: 3minmoney</li>
+              <li>카카오톡: linkpay</li>
             </ul>
           </div>
         </div>
         <div className="pt-8 text-xs flex flex-col md:flex-row justify-between gap-4">
           <div>
-            <p>상호명: 3분머니 | 대표자: 홍길동 | 사업자등록번호: 000-00-00000</p>
+            <p>상호명: 링크페이 | 대표자: 홍길동 | 사업자등록번호: 000-00-00000</p>
             <p className="mt-1">주소: 서울특별시 강남구 테헤란로 123, 4층 | 통신판매업신고: 제2024-서울강남-0000호</p>
           </div>
-          <p>© 2024 3min Money. All rights reserved.</p>
+          <p>© 2024 Link Pay. All rights reserved.</p>
         </div>
         <div className="mt-8 p-4 bg-gray-800/50 rounded-lg text-[10px] leading-tight">
           <p className="text-gray-500 font-bold mb-1">※ 주의사항</p>

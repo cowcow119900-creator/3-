@@ -47,7 +47,7 @@ export default function Services() {
         </div>
 
         <div className="mt-16 bg-white rounded-3xl p-8 sm:p-12 shadow-sm border border-gray-100">
-          <h2 className="text-2xl font-bold text-gray-900 mb-8">3분머니 서비스의 장점</h2>
+          <h2 className="text-2xl font-bold text-gray-900 mb-8">링크페이 서비스의 장점</h2>
           <div className="grid sm:grid-cols-2 gap-8">
             <div className="flex gap-4">
               <div className="flex-shrink-0 w-10 h-10 bg-secondary/10 text-secondary rounded-full flex items-center justify-center font-bold">1</div>

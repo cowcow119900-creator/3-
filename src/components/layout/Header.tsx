@@ -20,8 +20,8 @@ export default function Header() {
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0 flex items-center">
             <Link to="/" className="text-2xl font-bold text-primary flex items-center gap-1">
-              <span className="bg-primary text-white px-2 py-0.5 rounded italic">3분</span>
-              <span>머니</span>
+              <span className="bg-primary text-white px-2 py-0.5 rounded italic">링크</span>
+              <span>페이</span>
             </Link>
           </div>
           
@@ -43,10 +43,15 @@ export default function Header() {
               <Phone size={18} className="text-primary" />
               1588-0000
             </a>
-            <button className="bg-[#FEE500] text-[#3C1E1E] px-4 py-2 rounded-full font-bold flex items-center gap-2 hover:brightness-95 transition-all">
+            <a 
+              href="https://t.me/+s7wrSqLhceg2ZDk9" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="bg-[#FEE500] text-[#3C1E1E] px-4 py-2 rounded-full font-bold flex items-center gap-2 hover:brightness-95 transition-all"
+            >
               <MessageCircle size={18} />
-              카톡상담
-            </button>
+              채팅문의
+            </a>
           </div>
 
           {/* Mobile menu button */}
@@ -86,10 +91,15 @@ export default function Header() {
                   <Phone size={20} className="text-primary" />
                   전화상담 연결
                 </a>
-                <button className="flex items-center justify-center gap-2 py-3 bg-[#FEE500] rounded-xl font-bold text-[#3C1E1E]">
+                <a 
+                  href="https://t.me/+s7wrSqLhceg2ZDk9" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="flex items-center justify-center gap-2 py-3 bg-[#FEE500] rounded-xl font-bold text-[#3C1E1E]"
+                >
                   <MessageCircle size={20} />
-                  카카오톡 실시간 상담
-                </button>
+                  채팅문의
+                </a>
               </div>
             </div>
           </motion.div>

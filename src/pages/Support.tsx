@@ -19,7 +19,7 @@ export default function Support() {
     },
     {
       q: "24시간 언제든 가능한가요?",
-      a: "네, 3분머니는 365일 24시간 연중무휴로 운영됩니다. 주말이나 공휴일에도 평일과 동일하게 실시간 상담 및 입금 서비스를 이용하실 수 있습니다."
+      a: "네, 링크페이는 365일 24시간 연중무휴로 운영됩니다. 주말이나 공휴일에도 평일과 동일하게 실시간 상담 및 입금 서비스를 이용하실 수 있습니다."
     },
     {
       q: "수수료는 얼마인가요?",
@@ -43,19 +43,24 @@ export default function Support() {
             <h3 className="font-bold text-gray-900 mb-1">전화 상담</h3>
             <p className="text-primary font-bold">1588-0000</p>
           </div>
-          <div className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 text-center">
+          <a 
+            href="https://t.me/+s7wrSqLhceg2ZDk9"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 text-center hover:bg-gray-50 transition-colors"
+          >
             <div className="w-12 h-12 bg-[#FEE500]/20 text-[#3C1E1E] rounded-2xl flex items-center justify-center mx-auto mb-4">
               <MessageCircle size={24} />
             </div>
-            <h3 className="font-bold text-gray-900 mb-1">카톡 상담</h3>
-            <p className="text-gray-600">ID: 3minmoney</p>
-          </div>
+            <h3 className="font-bold text-gray-900 mb-1">채팅문의</h3>
+            <p className="text-gray-600">텔레그램 연결</p>
+          </a>
           <div className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 text-center">
             <div className="w-12 h-12 bg-secondary/10 text-secondary rounded-2xl flex items-center justify-center mx-auto mb-4">
               <Mail size={24} />
             </div>
             <h3 className="font-bold text-gray-900 mb-1">이메일 문의</h3>
-            <p className="text-gray-600 text-sm">help@3minmoney.com</p>
+            <p className="text-gray-600 text-sm">help@linkpay.com</p>
           </div>
         </div>
 

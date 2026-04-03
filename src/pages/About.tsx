@@ -16,7 +16,7 @@ export default function About() {
               <h2 className="text-xl font-bold text-gray-900">정식 등록 업체 인증</h2>
             </div>
             <p className="text-gray-600 leading-relaxed mb-6">
-              3분머니는 관계 법령을 준수하며 정식으로 사업자 등록을 마친 합법적인 업체입니다. 
+              링크페이는 관계 법령을 준수하며 정식으로 사업자 등록을 마친 합법적인 업체입니다. 
               일부 불법 무등록 업체들의 과장 광고와 사기 행위로부터 고객님을 보호하기 위해 모든 거래 과정을 투명하게 공개하고 있습니다.
             </p>
             <div className="grid sm:grid-cols-2 gap-4">
@@ -56,7 +56,7 @@ export default function About() {
                 <li>개인 카톡 아이디로만 상담을 유도하고 공식 채널이 없는 경우</li>
               </ul>
               <p className="mt-4 text-xs text-red-600">
-                3분머니는 어떠한 경우에도 고객님께 선입금을 요구하지 않습니다.
+                링크페이는 어떠한 경우에도 고객님께 선입금을 요구하지 않습니다.
               </p>
             </div>
           </section>
