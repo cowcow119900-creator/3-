@@ -39,10 +39,6 @@ export default function Header() {
           </nav>
 
           <div className="hidden md:flex items-center gap-4">
-            <a href="tel:1588-0000" className="flex items-center gap-1 text-gray-700 font-semibold">
-              <Phone size={18} className="text-primary" />
-              1588-0000
-            </a>
             <a 
               href="https://t.me/+s7wrSqLhceg2ZDk9" 
               target="_blank" 
@@ -87,10 +83,6 @@ export default function Header() {
                 </Link>
               ))}
               <div className="pt-4 flex flex-col gap-3">
-                <a href="tel:1588-0000" className="flex items-center justify-center gap-2 py-3 bg-gray-100 rounded-xl font-bold text-gray-800">
-                  <Phone size={20} className="text-primary" />
-                  전화상담 연결
-                </a>
                 <a 
                   href="https://t.me/+s7wrSqLhceg2ZDk9" 
                   target="_blank" 

@@ -19,16 +19,6 @@ export default function About() {
               링크페이는 관계 법령을 준수하며 정식으로 사업자 등록을 마친 합법적인 업체입니다. 
               일부 불법 무등록 업체들의 과장 광고와 사기 행위로부터 고객님을 보호하기 위해 모든 거래 과정을 투명하게 공개하고 있습니다.
             </p>
-            <div className="grid sm:grid-cols-2 gap-4">
-              <div className="p-4 bg-gray-50 rounded-2xl border border-gray-100 flex items-center gap-3">
-                <FileText className="text-gray-400" size={20} />
-                <span className="text-sm font-medium text-gray-700">사업자등록번호: 000-00-00000</span>
-              </div>
-              <div className="p-4 bg-gray-50 rounded-2xl border border-gray-100 flex items-center gap-3">
-                <FileText className="text-gray-400" size={20} />
-                <span className="text-sm font-medium text-gray-700">통신판매업신고 완료</span>
-              </div>
-            </div>
           </section>
 
           <section className="bg-white rounded-3xl p-8 shadow-sm border border-gray-100">

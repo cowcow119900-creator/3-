@@ -25,11 +25,7 @@ export default function Home() {
             24시간 대기 중인 상담원에게 문의하세요.
           </p>
           
-          <div className="flex flex-col sm:flex-row justify-center gap-4">
-            <button className="bg-white text-primary px-10 py-5 rounded-2xl font-bold text-xl shadow-xl hover:bg-gray-50 transition-all flex items-center justify-center gap-2">
-              <Phone size={24} />
-              전화 상담하기
-            </button>
+          <div className="flex justify-center">
             <a 
               href="https://t.me/+s7wrSqLhceg2ZDk9"
               target="_blank"

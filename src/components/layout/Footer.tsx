@@ -27,17 +27,12 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-bold mb-4">고객센터</h3>
             <ul className="space-y-2 text-sm">
-              <li className="text-primary font-bold text-lg">1588-0000</li>
+              <li className="text-primary font-bold text-lg">010-5029-1777</li>
               <li>상담시간: 365일 24시간</li>
-              <li>카카오톡: linkpay</li>
             </ul>
           </div>
         </div>
         <div className="pt-8 text-xs flex flex-col md:flex-row justify-between gap-4">
-          <div>
-            <p>상호명: 링크페이 | 대표자: 홍길동 | 사업자등록번호: 000-00-00000</p>
-            <p className="mt-1">주소: 서울특별시 강남구 테헤란로 123, 4층 | 통신판매업신고: 제2024-서울강남-0000호</p>
-          </div>
           <p>© 2024 Link Pay. All rights reserved.</p>
         </div>
         <div className="mt-8 p-4 bg-gray-800/50 rounded-lg text-[10px] leading-tight">

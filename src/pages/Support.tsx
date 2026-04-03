@@ -35,14 +35,7 @@ export default function Support() {
           <p className="text-gray-600">궁금하신 점을 빠르게 해결해 드립니다.</p>
         </div>
 
-        <div className="grid sm:grid-cols-3 gap-6 mb-12">
-          <div className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 text-center">
-            <div className="w-12 h-12 bg-primary/10 text-primary rounded-2xl flex items-center justify-center mx-auto mb-4">
-              <Phone size={24} />
-            </div>
-            <h3 className="font-bold text-gray-900 mb-1">전화 상담</h3>
-            <p className="text-primary font-bold">1588-0000</p>
-          </div>
+        <div className="grid sm:grid-cols-2 gap-6 mb-12">
           <a 
             href="https://t.me/+s7wrSqLhceg2ZDk9"
             target="_blank"

@@ -29,13 +29,6 @@ export default function QuickMenu() {
       {/* Mobile Bottom Bar */}
       <div className="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-white border-t border-gray-200 flex h-16 shadow-[0_-4px_10px_rgba(0,0,0,0.05)]">
         <a 
-          href="tel:1588-0000" 
-          className="flex-1 flex flex-col items-center justify-center gap-1 text-gray-700 active:bg-gray-50"
-        >
-          <Phone size={20} className="text-primary" />
-          <span className="text-[10px] font-bold">전화상담</span>
-        </a>
-        <a 
           href="https://t.me/+s7wrSqLhceg2ZDk9"
           target="_blank"
           rel="noopener noreferrer"
