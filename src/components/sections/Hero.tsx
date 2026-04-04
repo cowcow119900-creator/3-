@@ -32,7 +32,7 @@ export default function Hero() {
 
             <div className="flex justify-center">
               <a 
-                href="https://t.me/+s7wrSqLhceg2ZDk9"
+                href="https://t.me/linkpay119"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-[#FEE500] text-[#3C1E1E] px-12 py-5 rounded-2xl font-bold text-xl shadow-lg shadow-yellow-400/20 hover:brightness-95 transition-all flex items-center justify-center gap-3"
