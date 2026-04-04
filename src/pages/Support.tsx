@@ -53,7 +53,7 @@ export default function Support() {
               <Mail size={24} />
             </div>
             <h3 className="font-bold text-gray-900 mb-1">이메일 문의</h3>
-            <p className="text-gray-600 text-sm">help@linkpay.com</p>
+            <p className="text-gray-600 text-sm">goodpay1100@gmail.com</p>
           </div>
         </div>
 
