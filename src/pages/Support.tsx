@@ -37,7 +37,7 @@ export default function Support() {
 
         <div className="grid sm:grid-cols-2 gap-6 mb-12">
           <a 
-            href="https://t.me/+s7wrSqLhceg2ZDk9"
+            href="https://t.me/linkpay119"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 text-center hover:bg-gray-50 transition-colors"
