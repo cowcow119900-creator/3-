@@ -5,7 +5,7 @@ export default function Services() {
     {
       icon: <Smartphone size={32} />,
       title: "상담 신청",
-      desc: "홈페이지 신청 폼 또는 카카오톡/전화로 상담을 요청합니다."
+      desc: "홈페이지 신청 폼 또는 텔레그램/전화로 상담을 요청합니다.(카카오톡은 운영정책상 이용불가합니다.)"
     },
     {
       icon: <ClipboardCheck size={32} />,
