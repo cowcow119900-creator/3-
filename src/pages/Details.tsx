@@ -5,8 +5,8 @@ export default function Details() {
     { name: "북앤라이프 도서문화", rate: "88%", status: "매입중" },
     { name: "구글 기프트카드", rate: "85%", status: "매입중" },
     { name: "신세계/롯데 모바일", rate: "92%", status: "매입중" },
-    { name: "소액결제 현금화", rate: "80~85%", status: "매입중" },
-    { name: "정보이용료(콘텐츠)", rate: "60~70%", status: "매입중" },
+    { name: "소액결제 현금화", rate: "50~85%", status: "매입중" },
+    { name: "정보이용료(콘텐츠)", rate: "40~70%", status: "매입중" },
   ];
 
   return (
@@ -15,7 +15,7 @@ export default function Details() {
         <div className="bg-white rounded-3xl shadow-sm border border-gray-100 overflow-hidden">
           <div className="bg-primary p-8 text-white">
             <h1 className="text-2xl font-bold mb-2">실시간 매입 단가표</h1>
-            <p className="text-white/80 text-sm">현재 시장 상황에 따른 실시간 매입 시세입니다. (2024년 기준)</p>
+            <p className="text-white/80 text-sm">현재 시장 상황에 따른 실시간 매입 시세입니다. (2026년 4월 기준)</p>
           </div>
           
           <div className="p-6 sm:p-8">
