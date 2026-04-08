@@ -33,6 +33,12 @@ export default function Footer() {
           </div>
         </div>
         <div className="pt-8 text-xs flex flex-col md:flex-row justify-between gap-4">
+          <div>
+            <p>상호명: 바로상품권 | 대표자: 전윤수외1명</p>
+            <p className="mt-1">사업자등록번호: 125-62-00331</p>
+            <p className="mt-1">주소: 충청남도 천안시 서북구 쌍용대로 121, 3030호</p>
+            <p className="mt-1">이메일: goodpay1100@gmail.com</p>
+          </div>
           <p>© 2024 Link Pay. All rights reserved.</p>
         </div>
         <div className="mt-8 p-4 bg-gray-800/50 rounded-lg text-[10px] leading-tight">
