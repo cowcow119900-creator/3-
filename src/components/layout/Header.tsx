@@ -40,7 +40,7 @@ export default function Header() {
 
           <div className="hidden md:flex items-center gap-4">
             <a 
-              href="https://t.me/linkpay119" 
+              href="https://t.me/+s7wrSqLhceg2ZDk9" 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-[#FEE500] text-[#3C1E1E] px-4 py-2 rounded-full font-bold flex items-center gap-2 hover:brightness-95 transition-all"
@@ -84,7 +84,7 @@ export default function Header() {
               ))}
               <div className="pt-4 flex flex-col gap-3">
                 <a 
-                  href="https://t.me/linkpay119" 
+                  href="https://t.me/+s7wrSqLhceg2ZDk9" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2 py-3 bg-[#FEE500] rounded-xl font-bold text-[#3C1E1E]"

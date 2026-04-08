@@ -37,7 +37,7 @@ export default function Support() {
 
         <div className="grid sm:grid-cols-2 gap-6 mb-12">
           <a 
-            href="https://t.me/linkpay119"
+            href="https://t.me/+s7wrSqLhceg2ZDk9"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white p-6 rounded-3xl shadow-sm border border-gray-100 text-center hover:bg-gray-50 transition-colors"
@@ -53,7 +53,7 @@ export default function Support() {
               <Mail size={24} />
             </div>
             <h3 className="font-bold text-gray-900 mb-1">이메일 문의</h3>
-            <p className="text-gray-600 text-sm">goodpay1100@gmail.com</p>
+            <p className="text-gray-600 text-sm">help@linkpay.com</p>
           </div>
         </div>
 

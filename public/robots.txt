@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://링크페이.com/sitemap.xml

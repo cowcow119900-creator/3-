@@ -29,7 +29,7 @@ export default function QuickMenu() {
       {/* Mobile Bottom Bar */}
       <div className="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-white border-t border-gray-200 flex h-16 shadow-[0_-4px_10px_rgba(0,0,0,0.05)]">
         <a 
-          href="https://t.me/linkpay119"
+          href="https://t.me/+s7wrSqLhceg2ZDk9"
           target="_blank"
           rel="noopener noreferrer"
           className="flex-1 flex flex-col items-center justify-center gap-1 bg-[#FEE500] text-[#3C1E1E] active:brightness-90"
@@ -55,7 +55,7 @@ export default function QuickMenu() {
           <ArrowUp size={24} />
         </button>
         <a 
-          href="https://t.me/linkpay119"
+          href="https://t.me/+s7wrSqLhceg2ZDk9"
           target="_blank"
           rel="noopener noreferrer"
           className="w-16 h-16 bg-[#FEE500] rounded-full shadow-xl flex items-center justify-center text-[#3C1E1E] hover:scale-105 transition-transform"
